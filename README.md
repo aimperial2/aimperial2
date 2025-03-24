@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=250&section=header&text=Welcome!&fontSize=70&animation=fadeIn&customColorList=5,29)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=250&section=header&text=Welcome!&fontSize=70&animation=fadeIn&customColorList=5,29,7)
 
 <!--
 **aimperial2/aimperial2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
