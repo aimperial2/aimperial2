@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=250&section=header&text=Hi,%20Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&customColorList=29)
 
+
+# I'm Alyana Imperial
+-----
+I'm a CompSci student at Texas State University, passionate about blending tech with creativity!  I explore the intersections of **coding**, **digital art**, and **IT** while developing projects that merge functionality with innovative design.
+
+-----
+
+
 <!--
 **aimperial2/aimperial2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
