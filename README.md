@@ -3,7 +3,7 @@
 
 # I'm Alyana Imperial
 
-I'm a CompSci student at Texas State University, passionate about blending tech with creativity!  I explore the intersections of **coding**, **digital art**, and **IT** while developing projects that merge functionality with innovative design.
+I'm a CompSci student at Texas State University, passionate about blending tech with creativity!  I explore developing projects that merge functionality with innovative design!
 
 -----
 
