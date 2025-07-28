@@ -5,6 +5,7 @@
 
 I'm a CompSci student at Texas State University, passionate about blending tech with creativity!  I explore developing projects that merge functionality with innovative design!
 
+Currently, I'm doing technical interview prep through Codepath and doing Leetcode 75!
 -----
 
 ![Green little guy with a cat on it](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFnbjN2MnF2bXlhZjQxMGVlajZ6NGpzeGk1YzAzNWwzazl6eGlyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rrmclE98vJMKThqSTp/giphy.gif)
