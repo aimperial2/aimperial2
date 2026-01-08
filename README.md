@@ -9,7 +9,7 @@ Currently, I'm doing technical interview prep through Codepath and doing Leetcod
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CreatorVerse -- Vite + React website for your favorite creators
+- 🔭 I’m currently working on a personal project (coming soon..)
 - 🌱 I’m currently learning SQL and doing LeetCode75
 - 👯 I’m looking to collaborate on more projects and connect with other aspiring, creative tech fellows 
 - 🤔 I’m looking for help with alil bit of everything
