@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=250&section=header&text=Hi,%20Welcome!&fontSize=70&fontColor=ffffff&animation=fadeIn&customColorList=29)
 
 
-# I'm Alyana Imperial
+# I'm Alyana Imperial (or Ally!)
 
 I'm a CompSci graduate from Texas State University, passionate about blending tech with creativity !  I explore developing projects that merge functionality with innovative design!
 
