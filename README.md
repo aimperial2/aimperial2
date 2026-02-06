@@ -9,7 +9,7 @@ Currently, I'm brainstorming/starting a desktop application using ElectronJS and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a personal project (coming soon..)
+- 🔭 I’m currently working on a personal projects (portfolio website & a fun valentine application)
 - 🌱 I’m currently learning SQL and doing LeetCode75
 - 👯 I’m looking to collaborate on more projects and connect with other aspiring, creative tech fellows 
 - 🤔 I’m looking for help with alil bit of everything !!
